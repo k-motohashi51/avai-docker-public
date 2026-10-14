@@ -1,0 +1,6 @@
+**
+!Dockerfile
+!.dockerignore
+!python-constraints.txt
+!buggy-busters-config.toml
+!README.md

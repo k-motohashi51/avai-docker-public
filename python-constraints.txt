@@ -1,0 +1,10 @@
+# Versions observed in the working setup.
+# SciPy is supplied by Ubuntu; keeping NumPy below 1.25 avoids its compatibility warning.
+numpy==1.24.4
+scipy==1.8.0
+pydantic==2.14.1
+pydantic-core==2.50.1
+pynput==1.8.2
+shapely==2.1.2
+tomlkit==0.15.1
+evdev==1.9.3

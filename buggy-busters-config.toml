@@ -1,0 +1,6 @@
+[car_platform]
+max_speed = 0.5
+min_speed = 0.0
+max_steering_angle = 0.3
+max_acceleration = 0.5
+max_steering_change = 0.5
